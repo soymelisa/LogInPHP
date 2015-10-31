@@ -1,6 +1,6 @@
-[link DNS][http://ec2-52-27-207-240.us-west-2.compute.amazonaws.com/]
+[link DNS][http://ec2-52-32-133-168.us-west-2.compute.amazonaws.com/]
 
 DATABASE
-[link DNS][http://ec2-52-27-207-240.us-west-2.compute.amazonaws.com/phpmyadmin/tbl_row_action.php#PMAURL-1:sql.php?db=myapp&table=News&server=1&target=&token=68fd22c838441401fe981eb4acbcd016]
+[link DNS][http://ec2-52-32-133-168.us-west-2.compute.amazonaws.com/phpmyadmin/index.php?db=myuser&target=db_structure.php&token=afb78040da31e4822c776b12758703a7#PMAURL-1:sql.php?db=myuser&table=TABLAWEB&server=1&target=&token=afb78040da31e4822c776b12758703a7]
 
  
