@@ -21,21 +21,21 @@
 <div class="container">
   <div class="profile">
     <button class="profile__avatar" id="toggleProfile">
-     <img src="https://s-media-cache-ak0.pinimg.com/736x/87/37/62/873762c281ec4cc6b171f6e1b2ddeb96.jpg" class="img-responsive" alt="Avatar" /> 
+     <img src="https://40.media.tumblr.com/46d7dcf17b10a4dc0d7364a0f97e0528/tumblr_mh7d5sTTYI1r6ej77o1_1280.jpg" class="img-responsive" alt="Avatar" /> 
     </button>
     <form action="respuesta.php" method="post"> 
     <div class="profile__form">
       <div class="profile__fields">
         <div class="field">
           <input name="CORREO" type="text" id="fieldUser" class="input" required pattern=.*\S.* />
-          <label for="fieldUser" class="label">correo</label>
+          <label for="fieldUser" class="label">Correo</label>
         </div>
         <div class="field">
           <input name="CONTRASENA" type="password" id="fieldPassword" class="input" required pattern=.*\S.* />
           <label for="fieldPassword" class="label">Contraseña</label>
         </div>
          <button class="profile__avatar" id="toggleProfile">
-          <img src="http://i64.tinypic.com/13zpumw.png" class="img-responsive" alt="Avatar" /> 
+          <img src="http://i64.tinypic.com/24bvtqg.png" class="img-responsive" alt="Avatar" /> 
          </button>
         <!--<button class="profile__footer">
           <input type="submit" class="btn">Únete :D</button>-->
